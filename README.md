@@ -14,9 +14,6 @@ My primary research interests include:
 
 - 📡 Distributed Systems and Networks
 
-
-Feel free to reach out and connect!
-
 <!--
 **MattiaFiore/MattiaFiore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
