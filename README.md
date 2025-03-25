@@ -2,6 +2,8 @@
 
 🎓 Master's Student in Telecommunication Engineering📍 Politecnico di Milano, Italy
 
+Currently in Saint Louis University, Missouri 🇺🇸
+
 My primary research interests include:
 
 - 🔀 Dataplane Programmability (P4, eBPF)
